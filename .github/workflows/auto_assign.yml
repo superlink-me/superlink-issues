@@ -11,6 +11,6 @@ jobs:
             - name: 'Auto-assign'
               uses: pozil/auto-assign-issue@v1
               with:
-                  assignees: hhkelder
+                  assignees: hhkelder,deanboonzaier
                   numOfAssignee: 1
                   allowSelfAssign: false
