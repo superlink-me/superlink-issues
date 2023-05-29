@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Superlink Docs
+    url: https://docs.superlink.me/
+    about: The official developer documentation for Superlink. 
+  - name: Superlink Discord Community
+    url: https://discord.com/invite/ua2rZVA8fe
+    about: Ask and answer questions, share suggestions, and discuss ideas.
